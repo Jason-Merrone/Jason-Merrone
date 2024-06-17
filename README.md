@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jason-Merrone
 - 👀 I’m interested in mathematics and computer science, as well as how the two can be applied to solving real-world problems.
-- 🌱 I’m currently learning computer science focusing heavily on data science and machine learning.
+- 🌱 I’m currently learning computer science focusing on full-stack web devlopment.
 - 💞️ I’m looking to collaborate on any project which could utilize my unique skillset.
 - 📫 How to reach me includes via my phone number or my personal email, both of which are listed below.
 
